@@ -84,7 +84,7 @@ const routes = [
   },
   {
     path: "/",
-    component: Index,
+    component: Profile,
   },
   { path: "*", redirect: "/" },
 ];
